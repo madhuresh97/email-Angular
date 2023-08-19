@@ -11,3 +11,11 @@
     margin-top: 5%;
     align-items: center;
 }
+
+.text center{
+    text-align: center;
+}
+
+.card button{
+    margin: 5px;
+}
