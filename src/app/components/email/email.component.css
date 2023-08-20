@@ -1,21 +1,21 @@
-.field{
+.field {
     width: 60%;
 }
 
-.card{
+.card {
     width: 80%;
     margin: auto;
 }
 
-.container{
+.container {
     margin-top: 5%;
     align-items: center;
 }
 
-.text center{
+.text center {
     text-align: center;
 }
 
-.card button{
+.card button {
     margin: 5px;
 }
